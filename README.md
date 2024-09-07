@@ -1,4 +1,4 @@
-Circle vs Squares: The Showdown.
+Circle vs Squares: The Showdown | (Check branches for newer and improved versions, improved by hand and LLM help)
 
 How To Play:
 - Download main.py which is the game
