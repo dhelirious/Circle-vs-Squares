@@ -2,6 +2,7 @@ Circle vs Squares: The Showdown.
 
 How To Play:
 - Download main.py which is the game
+- pip install pygame
 - Open console in the folder of the game directory and write "python3 main.py".
 
 Controllers:
